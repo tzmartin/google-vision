@@ -4,6 +4,8 @@ Google [Vision API](https://cloud.google.com/vision/)
 
 Generate API key here: [https://console.cloud.google.com/apis](https://console.cloud.google.com/apis)
 
+![Vision Logo](https://cloud.google.com/images/products/artwork/what-is-it.png)
+
 ## Image Sentiment 
 
 Detect sentiment from a video. The Vision API can analyze emotional facial attributes of people in your images, like joy, sorrow, and anger. Combine this with object detection and product logo detection, so you can assess how people feel about your logo.
