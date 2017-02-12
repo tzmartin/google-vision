@@ -39,3 +39,9 @@ Detect inappropriate content. Powered by Google SafeSearch, easily moderate cont
 ### Usage
 
 TBD
+
+# Resources
+
+- [API Docs](https://cloud.google.com/vision/docs/)
+- [Sample Code](https://cloud.google.com/vision/docs/samples)
+- [Google Vision vs. Amazon Rekognition: A Vendor-neutral Comparison](http://cloudacademy.com/blog/google-vision-vs-amazon-rekognition/)
