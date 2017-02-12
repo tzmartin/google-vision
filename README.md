@@ -12,6 +12,8 @@ Detect sentiment from a video. The Vision API can analyze emotional facial attri
 
 Example: `sentiment.py`
 
+![example screenshot](https://monosnap.com/file/QGlltMilSsBTMMmcOPYkA2Pkc6QzL0.png)
+
 ## Object Detection
 
 Detect and classify objects. Easily detect broad sets of objects in your images, from flowers, animals, or transportation to thousands of other object categories commonly found within images. Vision API improves over time as new concepts are introduced and accuracy is improved.
